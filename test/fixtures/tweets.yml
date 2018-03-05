@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fav_at: 2018-03-05 22:03:20
+  id: MyString
+  text: MyText
+  profileimage: MyText
+  created_at: 2018-03-05 22:03:20
+  name: MyText
+  screen_name: MyString
+
+two:
+  fav_at: 2018-03-05 22:03:20
+  id: MyString
+  text: MyText
+  profileimage: MyText
+  created_at: 2018-03-05 22:03:20
+  name: MyText
+  screen_name: MyString
