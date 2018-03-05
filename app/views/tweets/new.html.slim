@@ -1,0 +1,4 @@
+h1 tweet/new
+= form_for @tweet, :html => { class: "ui form"} do |f|
+  = f.text_field :screen_name, placeholder: "Screen Name"
+  = f.submit "イベントを作成", class: "btn"
